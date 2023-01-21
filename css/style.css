@@ -1,12 +1,12 @@
 /* RESETS */
 @import "./global/global.css";
+/* TIPOGRAFIA */
+@import "./utilidades/tipografia.css";
+/* CORES */
+@import "./utilidades/cores.css";
 /* HEADER */
 @import "./global/header.css";
 /* HOME */
 @import "./home/introducao.css";
 /* UTILIDADES */
 @import "./utilidades/componentes.css";
-
-:root {
-  --c12: #000000;
-}

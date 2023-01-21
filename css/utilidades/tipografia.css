@@ -1,0 +1,15 @@
+/* Utilizado para títulos */
+.texo-grande {
+  font-size: 4rem;
+  line-height: 1.125;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+
+/* Utilizado para parágrafos */
+.texto-medio {
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  font-family: "Roboto";
+  font-weight: 400;
+}
