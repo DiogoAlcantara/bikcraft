@@ -4,11 +4,12 @@
 @import "./utilidades/tipografia.css";
 /* CORES */
 @import "./utilidades/cores.css";
+/* COMPONENTES */
+@import "./utilidades/componentes.css";
 /* HEADER */
 @import "./global/header.css";
 /* HOME */
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
 /* LISTA DE BICICLETAS */
 @import "./bicicletas/bicicletas-lista.css";
-/* UTILIDADES */
-@import "./utilidades/componentes.css";
