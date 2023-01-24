@@ -1,17 +1,27 @@
 /* RESETS */
+
 @import "./global/global.css";
+
 /* TIPOGRAFIA */
 @import "./utilidades/tipografia.css";
+
 /* CORES */
 @import "./utilidades/cores.css";
+
 /* COMPONENTES */
 @import "./utilidades/componentes.css";
+
 /* HEADER */
 @import "./global/header.css";
+
 /* HOME */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
+
 /* LISTA DE BICICLETAS */
 @import "./bicicletas/bicicletas-lista.css";
+
+/* SEGUROS */
+@import "./seguros/seguros.css";
