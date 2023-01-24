@@ -1,5 +1,4 @@
 /* RESETS */
-
 @import "./global/global.css";
 
 /* TIPOGRAFIA */
@@ -13,6 +12,9 @@
 
 /* HEADER */
 @import "./global/header.css";
+
+/* FOOTER */
+@import "./global/footer.css";
 
 /* HOME */
 @import "./home/introducao.css";
