@@ -12,5 +12,6 @@
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
+@import "./home/depoimento.css";
 /* LISTA DE BICICLETAS */
 @import "./bicicletas/bicicletas-lista.css";
