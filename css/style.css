@@ -42,3 +42,6 @@
 
 /* TERMOS */
 @import "./termos/termos.css";
+
+/* ORÇAMENTOS */
+@import "./orcamento/orcamento.css";
