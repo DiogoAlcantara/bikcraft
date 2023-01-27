@@ -13,6 +13,8 @@
 }
 
 .depoimento-conteudo {
+  background: url("../../img/dec/top-left-p.svg") no-repeat bottom 40px right
+    40px;
   padding: 40px 40px 80px 80px;
   align-self: end;
 }
@@ -42,17 +44,10 @@
 .depoimento p::after {
   content: "”";
 }
-@media (max-width: 800px) {
-  .depoimento {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
+
+@media (min-width: 1200px) {
   .depoimento img {
-    max-height: 200px;
-  }
-  .depoimento-conteudo {
-    padding: 40px 20px;
-    margin: auto;
+    max-height: 520px;
   }
 }
 
