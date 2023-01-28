@@ -7,6 +7,9 @@
 /* CORES */
 @import "./utilidades/cores.css";
 
+/* ANIMAÇÃO */
+@import "./utilidades/animacao.css";
+
 /* COMPONENTES */
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
