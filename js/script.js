@@ -1,6 +1,5 @@
 // Mudando o estilo do link do menu que estiver ativo
 const links = document.querySelectorAll(".header-menu a");
-console.log(links);
 
 function ativarLink(link) {
   const url = window.location.href;
@@ -50,7 +49,6 @@ perguntas.forEach(eventosPerguntas);
 
 const galeria = document.querySelectorAll(".bicicleta-imagens img");
 const galeriaContainer = document.querySelector(".bicicleta-imagens");
-console.log(galeria, galeriaContainer);
 
 function trocarImagem(event) {
   const img = event.currentTarget;
